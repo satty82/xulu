@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">xulu</string>
+    <string name="language_option_" translatable="true">Language option can be changed anytime in settings.
+    We will translate information to make your Xulu experience better</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="otp_code_text">TYPE ONE TIME PASSWORD HERE</string>
+    <string name="otp_verification_text">Verification</string>
+    <string name="otp_description_text">Code</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="Send_code">SEND CODE</string>
+    <string name="typemobilenumber">TYPE YOUR MOBILE NUMBER</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

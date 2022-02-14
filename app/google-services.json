@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143182821564",
+    "project_id": "xulu-c51a8",
+    "storage_bucket": "xulu-c51a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143182821564:android:330b78cb63d6589db6b8b9",
+        "android_client_info": {
+          "package_name": "com.example.xulu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143182821564-1eb1pm5eo543dtcl7ivafgcc1rd3rcnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xulu",
+            "certificate_hash": "693e4b2489a3c53dacf0357f3cf4011fc60636d8"
+          }
+        },
+        {
+          "client_id": "143182821564-5k4eet11s7l2q1849chaj3i1vvfq36m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhyDydslENAm9ZBYB7per6SbTECRT72uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143182821564-5k4eet11s7l2q1849chaj3i1vvfq36m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
